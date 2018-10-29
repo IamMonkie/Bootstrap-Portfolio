@@ -1,0 +1,24 @@
+
+img {
+    margin-right: 15px;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(200, 200, 200);
+    background: url("assets/background.png") fixed no-repeat center;
+    background-color: rgb(30, 30, 30);
+}  
+
+a:hover,a:focus {
+   
+    text-decoration:none;
+	color:#26a5d3;
+
+}
+
+.container {
+    margin-top: 15px;
+}
+
+

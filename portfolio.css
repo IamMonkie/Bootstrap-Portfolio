@@ -1,0 +1,31 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(200, 200, 200);
+    background: url("assets/background.png") fixed no-repeat center;
+    background-color: rgb(30, 30, 30);
+} 
+
+/* .img001 {
+
+    position: relative;
+    text-align: center;
+    color: white;
+} */
+
+.containerImg {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.imgText {
+    background-color: rgb(30,30,30);
+    border: 1px solid;
+    position: absolute;
+    width: 200px;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+

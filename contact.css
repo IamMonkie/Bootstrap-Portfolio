@@ -1,0 +1,61 @@
+body {
+
+	font-family: 'Nunito', sans-serif;
+	color: rgb(200, 200, 200);
+	background: url("assets/background.png") fixed no-repeat center;
+	background-color: rgb(30, 30, 30);
+} 
+
+
+h1,h2,h3 {
+	margin:0 0 35px 0;
+	text-transform: uppercase;
+	letter-spacing:1px;
+}
+
+p{
+	margin:0 0 25px;
+	font-size:18px;
+	line-height:1.6em;
+}
+a{
+	color:#26a5d3;
+}
+a:hover,a:focus{
+	text-decoration:none;
+	color:#26a5d3;
+}
+
+#contact{
+	background:#333333;
+	color:#f4f4f4;
+	padding-bottom:80px;
+}
+
+textarea.form-control{
+    height:100px;
+}
+
+hr {
+
+	border-color: white;
+	width: 100%;
+}
+
+.container {
+	/* background-color: rgb(30, 30, 30); */
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+  
+.btn {
+
+	color: white;
+	background-color: rgb(80, 80, 80);
+}
+
+.btn:hover,.btn:focus {
+	text-decoration:none;
+	color: greenyellow;
+
+}
