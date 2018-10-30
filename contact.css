@@ -59,3 +59,11 @@ hr {
 	color: greenyellow;
 
 }
+
+.navbar-footer {
+	
+	background-color: #892be221;
+/* border-color: #26a5d3; */ /* worked once, not sure why border color wont work now*/
+/* border: outset 2px; */ 
+
+}
